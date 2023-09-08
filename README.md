@@ -1,3 +1,8 @@
+<img width="960" alt="Screenshot 2023-09-08 223938" src="https://github.com/miraee7/reen/assets/142661906/f1971934-4d5b-4e51-bc05-0d370d06ab9b">
+<img width="960" alt="Screenshot 2023-09-08 223930" src="https://github.com/miraee7/reen/assets/142661906/120380f5-7253-4c49-8316-c1df1af94bad">
+<img width="960" alt="Screenshot 2023-09-08 223928" src="https://github.com/miraee7/reen/assets/142661906/fd084e75-defa-4659-9f09-521f67cbbd53">
+<img width="960" alt="Screenshot 2023-09-08 223925" src="https://github.com/miraee7/reen/assets/142661906/0c635342-b403-4504-a317-5380081fc35f">
+<img width="960" alt="Screenshot 2023-09-08 223909" src="https://github.com/miraee7/reen/assets/142661906/95e4c0f8-42c1-46f8-ab28-af8d572a25d5">
 # reen
 # Automation Project
 
